@@ -1,0 +1,28 @@
+COMMAND GIT
+
+git init
+// untuk buat enviroment git
+
+git add
+// untuk menambahkan apa aja yang mau di upload ke git
+
+git commit -m <message>
+// untuk menambahkan message
+
+git branch
+// untuk pindah branch atau setup branch
+
+git remote add origin <URL>
+// untuk ngarahin remote kemana
+
+git remote -v
+// untuk check remote sekarang
+
+git push origin <branch>
+// untuk upload ke github
+
+git clone <url>
+// untuk download project git
+
+git pull origin <branch>
+// update file
