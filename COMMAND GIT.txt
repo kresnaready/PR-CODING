@@ -26,3 +26,5 @@ git clone <url>
 
 git pull origin <branch>
 // update file
+
+percobaan ditambahin dan revisi
